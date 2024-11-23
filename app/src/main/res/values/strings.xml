@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListadeTareas-INFO(ListView)</string>
+    <string name="lbl_title">INFORMACIÓN TAREA</string>
+    <string name="btn">VOLVER</string>
+</resources>

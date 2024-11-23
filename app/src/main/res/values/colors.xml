@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_lblTask">#2979FF</color>
+    <color name="color_backgroundCard">#DBD845</color>
+    <color name="color_lblTitle">#D500F9</color>
+    <color name="color_btn">#4b4d52</color>
+</resources>
